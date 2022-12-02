@@ -9,6 +9,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8a00c9d0-f7c4-4952-b598-91428ec6bedd" name="Acad276Server (project level)" url="http://webdev.iyaclasses.com">
+        <fileTransfer host="webdev.iyaclasses.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
